@@ -12,22 +12,22 @@
   ![AI + Hardware](https://img.shields.io/badge/AI%20%2B%20Hardware-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
   
   [![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobat)](./HELAENA%20SANCHEZ%20RESUME.pdf)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=adobeacrobat)](https://portfolio-hp8ll4x9p-hel-sanchezs-projects.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=adobeacrobat)](https://helaena-sanchez-portfolio.netlify.app/)
 </div>
 
 ---
 
 ### 🧩 Projects I've Built
-- 🛒 **HAUM (Holy Angel University Marketplace)** [![GitHub](https://img.shields.io/badge/HAUM-181717?style=flat&logo=github&logoColor=white)](https://github.com/miahangelato/HAUM.git) – University-focused marketplace for students  
-- 📚 **PersoNovel** [![GitHub](https://img.shields.io/badge/PersoNovel-181717?style=flat&logo=github&logoColor=white)](https://github.com/Smiruu/Personovel-main) – Platform where users can read and interact with novels  
-- 📐 **Jacramerizer** [![GitHub](https://img.shields.io/badge/Jacramerizer-181717?style=flat&logo=github&logoColor=white)](https://github.com/miahangelato/NUMERICAL) – Numerical project implementing Cramers & Jacobi methods  
-- 🏥 **Cahili Birthing Facility** [![GitHub](https://img.shields.io/badge/CBF-181717?style=flat&logo=github&logoColor=white)](https://github.com/hel-sanchez/Cahili-Birthing-Facility) [![Online](https://img.shields.io/badge/Online-blue?style=flat&logo=netlify&logoColor=white)](https://cahili-birthing-facility.netlify.app/) – Website connecting users to the facility via Facebook messaging  
-- 🎉 **Kirbivent** – Event organizer app with a fun Kirby theme
+- 🛒 **HAUM (Holy Angel University Marketplace)** [![GitHub](https://img.shields.io/badge/HAUM-181717?style=flat&logo=github&logoColor=white)](https://github.com/miahangelato/HAUM.git) – University-focused marketplace for students.
+- 📚 **PersoNovel** [![GitHub](https://img.shields.io/badge/PersoNovel-181717?style=flat&logo=github&logoColor=white)](https://github.com/Smiruu/Personovel-main) – Platform where users can read and interact with novels.
+- 📐 **Jacramerizer** [![GitHub](https://img.shields.io/badge/Jacramerizer-181717?style=flat&logo=github&logoColor=white)](https://github.com/miahangelato/NUMERICAL) – Numerical project implementing Cramers & Jacobi methods.
+- 🏥 **Cahili Birthing Facility** [![GitHub](https://img.shields.io/badge/CBF-181717?style=flat&logo=github&logoColor=white)](https://github.com/hel-sanchez/Cahili-Birthing-Facility) [![Online](https://img.shields.io/badge/Online-blue?style=flat&logo=netlify&logoColor=white)](https://cahili-birthing-facility.netlify.app/) – Website connecting users to the facility via Facebook messaging.
+- 🎉 **Kirbivent** – Event organizer app with a fun Kirby theme.
 
 ---
 
 ### 🛠️ Technical Expertise
-- **Programming & Frameworks:** Tailwind CSS, Next JS, Shadcn, ReactJS, Django Python, HTML, Bootstrap
+- **Programming & Frameworks:** Tailwind CSS, Next JS, Shadcn, ReactJS, Django Python, HTML, Bootstrap, Quality Assurance
 - **Design & Creativity:** Canva, Presentation Design
 - **Soft Skills:** Adaptability, Flexibility, Communication, Teamwork, Critical Thinking, Work Ethic  
 - **Languages:** English, Filipino, Kapampangan  
@@ -36,6 +36,13 @@
 
 ### 🤝 Affiliation
 - Institute of Computer Engineers of the Philippines — Student Edition, Holy Angel University (2023)  
+
+---
+
+### 🗨️ Connect With Me
+[![Email](https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hs.irishdavid@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helaena-sanchez)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639626083699)
 
 ---
 
