@@ -1,23 +1,16 @@
 <div align="center">
-  <!-- Typing SVG Header -->
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Henny+Penny&size=50&duration=3500&pause=1000&color=FF3A76&center=true&vCenter=true&width=950&height=90&lines=Welcome+to+my+Digital+Lair%F0%9F%AA%84;Coding+Chaos+%26+Pixel+Magic%F0%9F%92%80;Debugging+Reality%F0%9F%98%8E%F0%9F%92%BB;Building+Nightmares+%26+Side+Projects%F0%9F%91%B9;Code.+Break.+Repeat%F0%9F%94%A5%F0%9F%98%94" alt="Typing SVG" />
   </a>
 
-  <!-- Intro -->
   <p align="center">
     Hi👋🏻, I'm <strong>Helaena Sanchez</strong>
   </p>
 
-
-  <!-- Unclickable Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/static/v1?label=Computer%20Engineering&message=%20&color=21FFFE&style=flat&logo=engineering&logoColor=white" />
-    <img src="https://img.shields.io/static/v1?label=Frontend%20Developer&message=%20&color=FF3A76&style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/static/v1?label=AI%20%2B%20Hardware&message=%20&color=8A2BE2&style=flat&logo=python&logoColor=white" />
-  </p>
-
-  <!-- Resume Badge -->
+  ![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-21FFFE?style=for-the-badge&logo=engineering&logoColor=white)
+  ![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-FF3A76?style=for-the-badge&logo=html5&logoColor=white)
+  ![AI + Hardware](https://img.shields.io/badge/AI%20%2B%20Hardware-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+  
   [![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobat)](./HELAENA%20SANCHEZ%20RESUME.pdf)
   [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=adobeacrobat)](https://portfolio-hp8ll4x9p-hel-sanchezs-projects.vercel.app/)
 </div>
@@ -47,6 +40,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hel-sanchez&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hel-sanchez&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hel-sanchez&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hel-sanchez&layout=compact&theme=default" />
 </p>
