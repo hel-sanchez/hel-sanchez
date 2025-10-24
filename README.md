@@ -11,7 +11,7 @@
   ![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-FF3A76?style=for-the-badge&logo=html5&logoColor=white)
   ![AI + Hardware](https://img.shields.io/badge/AI%20%2B%20Hardware-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
   
-  [![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobat)](https://drive.google.com/file/d/1UFJS9rC6rE-286C8iynV9sgGlp08ZyCE/view?usp=sharing)
+  [![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobat)](https://drive.google.com/file/d/1RkX2HdKe3m3c4dMKKDIvnFVtPsIfU9Tz/view?usp=sharing)
   [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=adobeacrobat)](https://helaena-sanchez-portfolio.netlify.app/)
 </div>
 
