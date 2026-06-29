@@ -23,7 +23,7 @@
 - 📐 **Jacramerizer** [![GitHub](https://img.shields.io/badge/Jacramerizer-181717?style=flat&logo=github&logoColor=white)](https://github.com/miahangelato/NUMERICAL) – Numerical project implementing Cramers & Jacobi methods.
 - 🏥 **Cahili Birthing Facility** [![GitHub](https://img.shields.io/badge/CBF-181717?style=flat&logo=github&logoColor=white)](https://github.com/hel-sanchez/Cahili-Birthing-Facility) [![Online](https://img.shields.io/badge/Online-blue?style=flat&logo=netlify&logoColor=white)](https://cahili-birthing-facility.netlify.app/) – Website connecting users to the facility via Facebook messaging.
 - 🎉 **Kirbivent** – Event organizer app with a fun Kirby theme.
-- 🖐️ **AI Fingerprint Health Analyzer** [![GitHub](https://img.shields.io/badge/CBF-181717?style=flat&logo=github&logoColor=white)](https://github.com/miahangelato/thesis-project) [![Online](https://img.shields.io/badge/Online-blue?style=flat&logo=netlify&logoColor=white)](https://drive.google.com/file/d/1uCLP9i89Fyp8kseCk6VIpDUW1IjaHrmD/view) - An AI system that predicts blood group via fingerprint biometrics and assesses diabetes risk through custom data collection, hardware integration, and full-stack deployment.
+- 🖐️ **AI Fingerprint Health Analyzer** [![GitHub](https://img.shields.io/badge/Fingerprint-181717?style=flat&logo=github&logoColor=white)](https://github.com/miahangelato/thesis-project) [![Online](https://img.shields.io/badge/Online-blue?style=flat&logo=netlify&logoColor=white)](https://drive.google.com/file/d/1uCLP9i89Fyp8kseCk6VIpDUW1IjaHrmD/view) - An AI system that predicts blood group via fingerprint biometrics and assesses diabetes risk through custom data collection, hardware integration, and full-stack deployment.
 
 ---
 
